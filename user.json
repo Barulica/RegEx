@@ -1,0 +1,23 @@
+{
+"numbers": [
+  {
+    "name": "Anna Müller",
+    "phone": "+381 123 4567"
+  },
+  {
+    "name": "Ben Schmidt",
+    "phone": "+382 234 5678"
+  },
+  {
+    "name": "Carla Fischer",
+    "phone": "+385 345 6789"
+  },
+  {
+    "name": "David Weber",
+    "phone": "+389 456 7890"
+  },
+  {
+    "name": "Eva Schneider",
+    "phone": "+381 567 8901"
+  }
+]}
